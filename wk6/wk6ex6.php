@@ -4,4 +4,3 @@
 	echo "I pay £ " . calculatetax(15000) . " tax";
 	html_footer();
 ?>
-ds
